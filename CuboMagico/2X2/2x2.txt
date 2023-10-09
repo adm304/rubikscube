@@ -1,0 +1,25 @@
+       W  W
+       W  W
+
+O  O   G  G   R  R
+O  O   G  G   R  R
+
+       Y  Y
+       Y  Y
+
+       B  B
+       B  B
+
+
+
+        W1 W2
+        W4 W3
+
+O1 O2   G1 G2   R1 R2
+O4 O3   G4 G3   R4 R3
+
+        Y1 Y2
+        Y4 Y3
+
+        B1 B2
+        B4 B3
