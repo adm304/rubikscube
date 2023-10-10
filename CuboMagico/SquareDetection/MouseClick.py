@@ -12,7 +12,7 @@ cap = cv2.imread("img.png")
 while True:
     cv2.imshow("Original", cap)
     cv2.setMouseCallback('Original', mouse_click)
-    if cv2.waitKey(0) & 0xFF == ord('q'):
+    if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
 cv2.destroyAllWindows()
